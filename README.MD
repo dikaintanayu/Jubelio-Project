@@ -15,5 +15,5 @@ pip install selenium
 For execute all test use this command below
 
 ```
-python login.py
+python SeleniumTest/login.py
 ```
